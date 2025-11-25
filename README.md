@@ -120,6 +120,7 @@ Stable, consistent structure.
 Every request contains everything needed.
 
 ---
+https://www.notion.so/REST-API-2883f465f01d80c99b2acda2b9f4cf66?source=copy_link
 
 ## 📌 Summary
 
